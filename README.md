@@ -18,3 +18,4 @@ adcxz
 sadxz
 rewasd
 xcz
+test
